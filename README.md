@@ -74,5 +74,5 @@ I am an IT Systems Engineer civilian for the Air Force, building skills in cloud
 - Splunk power User
 
 ## feel free to Connect with me
-- LinkedIn: [link]
-- Email: [link]
+- LinkedIn: [https://www.linkedin.com/in/alex-lafrance-42991514b/]
+- Email: [aglafrance6@gmail.com]
