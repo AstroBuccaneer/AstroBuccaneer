@@ -1,4 +1,4 @@
-## Hello There, I'm Alexander LaFrance 🚀👋
+## Hello There, I'm Alexander LaFrance 👋
 
 ## About Me
 I am an IT Systems Engineer civilian for the Air Force, building skills in cloud security, DevSecOps, and cybersecurity analysis while exploring solutions and AI architecture.
