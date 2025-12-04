@@ -7,6 +7,7 @@ I am an IT Systems Engineer civilian for the Air Force, building skills in cloud
 
 ## Skills and ongoing learning
 - Cloud Platforms: AWS, Azure, GCP
+- Identity & Access Management (IAM): OAuth2/OIDC, SAML, RBAC/ABAC, AWS Secrets Manager, KMS, Zero-Trust Concepts
 - DevSecOps: CI/CD, Terraform, Docker, Kubernetes, Security Automation
 - Cyber Defense: SIEM (Splunk, Sentinel), Threat Detection, Incident Response
 - Programming: Python, Bash, PowerShell
@@ -21,6 +22,7 @@ I am an IT Systems Engineer civilian for the Air Force, building skills in cloud
 - Cloud Security
 - DevSecOps
 - Cybersecurity Analysis
+- IAM
 - Solutions & AI Architecture (learning / growth)
 
 ## Industries & Passions
@@ -63,10 +65,10 @@ I am an IT Systems Engineer civilian for the Air Force, building skills in cloud
 
 ### Certifications Achieved
 - CompTIA Security+
+- CompTIA CySA+
 
 ###  Current Studies and Certifications Goals
-- WGU Master in Cybersecurity and Information Assurance (Ongoing)
-- CompTIA CySA+ 
+- WGU Master in Cybersecurity and Information Assurance (Ongoing) 
 - AWS Solutions Architecture associate
 - AWS Security Specialty
 - CISSP
