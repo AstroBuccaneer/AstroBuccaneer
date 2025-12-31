@@ -8,7 +8,6 @@ I am an IT Systems Engineer civilian for the Air Force, building skills in cloud
 ## Skills and ongoing learning
 - Cloud Platforms: AWS, Azure, GCP
 - Identity & Access Management (IAM): OAuth2/OIDC, SAML, RBAC/ABAC, AWS Secrets Manager, KMS, Zero-Trust Concepts
-- DevSecOps: CI/CD, Terraform, Docker, Kubernetes, Security Automation
 - Cyber Defense: SIEM (Splunk, Sentinel), Threat Detection, Incident Response
 - Programming: Python, Bash, PowerShell
 - Architecture: System Design, Secure Cloud & Mission-Critical Systems
