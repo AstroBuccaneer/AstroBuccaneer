@@ -2,7 +2,7 @@
 
 ## About Me
 I am an IT Systems Engineer civilian for the Air Force, building skills in cloud security, DevSecOps, and cybersecurity analysis while exploring solutions and AI architecture.
-🚀 Passionate about secure, scalable systems for space, healthcare, finance, and critical infrastructure.  
+🚀 Passionate about secure, scalable systems for space, healthcare, and critical infrastructure.  
 💡 In my spare time, I experiment with cloud security labs, automated DevSecOps pipelines, and space technology projects.
 
 ## Skills and ongoing learning
@@ -28,7 +28,6 @@ I am an IT Systems Engineer civilian for the Air Force, building skills in cloud
 ## Industries & Passions
 - Space Technology & Satellite Systems
 - Healthcare Security
-- Financial Systems Security
 
 
 ## Tech Stack
