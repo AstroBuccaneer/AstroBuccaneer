@@ -2,7 +2,7 @@
 
 ## About Me
 I am an IT Systems Engineer for the Air Force, building skills in cloud-based data engineering and secure system design. I focus on developing scalable, secure data pipelines using AWS, Python, and SQL, while leveraging my background in cybersecurity.
-💡 I enjoy working behind the scenes to build systems that transform real-world data into meaningful insights—especially in areas like space, ocean environments, sports, and healthcare.
+💡 I enjoy building systems that transform real-world data into meaningful insights—especially in areas like space, ocean environments, sports, and healthcare.
 
 ## Skills and ongoing learning
 
@@ -26,7 +26,7 @@ Programming
 
 DevOps / Infrastructure
 
-- Docker, Terraform, GitHub Actions (learning)
+- Docker, Terraform, GitHub Actions
 - CI/CD fundamentals
 
 
@@ -54,7 +54,7 @@ DevOps / Infrastructure
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Data Engineering Tools (Learning):**  
+**Data Engineering Tools:**  
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
@@ -83,7 +83,7 @@ DevOps / Infrastructure
 
 ###  Current Studies and Certifications Goals
 - AWS Solutions Architecture associate
-- AWS Data Associate
+- AWS Data engineer Associate
 - CISSP
 - Terraform Associate
 
