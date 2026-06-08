@@ -102,9 +102,9 @@ especially in areas like space, ocean environments, sports, and healthcare.
 
 | Project | Status | Stack |
 |---------|--------|-------|
-| 🏥 [Healthcare Readmission Analysis](#) | 🔨 In Progress | Python, pandas, scikit-learn |
+| 🏥 [Healthcare Readmission Analysis](#) | ✅ Completed | Python, pandas, scikit-learn |
+| 🚀 Space Mission Intelligence Platform | 🔨 In Progress | AWS, Python |
 | 🌊 [Surf Data Pipeline](#) | 🔨 In Progress | AWS, Python, SQL |
-| 🚀 Space Data Analysis Pipeline | 📋 Planned | AWS, Python |
 | ⚾ Sports Data ETL Project | 📋 Planned | Python, SQL, Airflow |
 
 ---
