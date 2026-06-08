@@ -119,7 +119,8 @@ especially in areas like space, ocean environments, sports, and healthcare.
 - WGU Master's in Data Analytics (Data Engineering specialization)
 - AWS Solutions Architect Associate
 - AWS Data Engineer Associate
-- CISSP
+- AWS Machine Learning Associate
+- Databricks Data Engineer Associate
 - Terraform Associate
 
 ## feel free to Connect with me
